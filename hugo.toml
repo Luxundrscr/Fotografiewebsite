@@ -1,0 +1,7 @@
+baseURL = 'https://luxundrscr.photography'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'gallery'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

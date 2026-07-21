@@ -1,5 +1,5 @@
 ---
-title: Hugo Gallery
+title: Hugo Gallery Gay
 description: An example site for hugo-theme-gallery. Images from Unsplash.
 #lastmod: 2023-07-05
 resources:
